@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { aStar } from "../AppBundle/astar.js";
+import { aStar } from "../../public/assets/astar.js";
 import { RoomTable } from "../components/table";
 import { Cell, ChooseMode, Path, Room, Table, Vector2 } from "../types";
 
