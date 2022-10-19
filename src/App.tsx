@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+/* @vite-ignore */
 import { aStar } from "./AppBundle/astar.js";
 import { Main } from "./view/main";
 
